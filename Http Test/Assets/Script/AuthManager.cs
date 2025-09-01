@@ -10,7 +10,7 @@ using UnityEngine.UI;
 public class AuthManager : MonoBehaviour
 {
     public static AuthManager Instance; 
-    string url = "https://sid-restapi.onrender.com/";//cambiar no se a que 
+    string url = "https://sid-restapi.onrender.com";
     string token;
     string username;
 
